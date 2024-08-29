@@ -1,5 +1,5 @@
 # GreenHeritageApp
-An Application of Information and Awareness for the Effects of Climate Change on Intangible Cultural Heritage.
+A mobile (Android devices) Application of Information and Awareness for the Effects of Climate Change on Intangible Cultural Heritage.
 
 
 ![image](https://github.com/user-attachments/assets/e3d7f6ed-923b-4715-b4a5-3d6088ac1f85)
